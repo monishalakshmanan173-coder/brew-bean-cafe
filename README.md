@@ -50,3 +50,4 @@ brew_bean_cafe/
 ## License
 
 MIT License
+# brew-bean-cafe
